@@ -1,0 +1,6 @@
+[submodule "winflexbison"]
+	path = winflexbison
+	url = https://github.com/TLohri/winflexbison.git
+[submodule "flex-bison-embedded-example"]
+	path = flex-bison-embedded-example
+	url = https://github.com/TLohri/flex-bison-embedded-example.git
